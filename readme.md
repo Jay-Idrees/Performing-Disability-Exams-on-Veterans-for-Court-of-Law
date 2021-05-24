@@ -63,4 +63,9 @@ Priority - original if its the first exam or origin am service connection claim 
 - **Aggravation by Service** When a pre-existing disability becomes permanently worse during service. Natural progression of a pre-existing condition does not qualify for this label
 
 - **Secondary Service Connection** New disability that is connected to a pre-existing service connected disorder
- 
+
+- **Lay Evidence** Any evidence or statements by a person without specialized education
+
+- **Combat Service** Legal finding of fact pertaining to injuries sustained on a battle field. The veteran will provide proof it can be accepted if the lay evidence is consistent  with the circumstances , conditions and hardships of service. The main important question is whether the current claimed injury is relatd to the combt injury. The VA claims adjudicator will have determined whether a veteran served in a combat
+
+- 
