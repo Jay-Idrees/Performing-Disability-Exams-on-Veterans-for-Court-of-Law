@@ -57,3 +57,9 @@ Priority - original if its the first exam or origin am service connection claim 
 
 ## Diaability claim Key Terms
 - **Direct Service Connection**  Disability resulting from personal injury or disease contracted in line of duty - compensations maybe payed if not dishonorably discharged from service
+
+- **Presumption of Soundness** An individual will be presumed to be sound except for defects/disorders noted at the time of entry into service, documents on an individual's DEMO general certification - it can be rebutted by clear and unmistakable evidence demonstrating that an injury or disease existed prior to service
+
+- **Aggravation by Service** When a pre-existing disability becomes permanently worse during service. Natural progression of a pre-existing condition does not qualify for this label
+
+- 
