@@ -54,3 +54,6 @@ Priority - original if its the first exam or origin am service connection claim 
 - US court of appeals for Veterans Claims
 - US court of appeals for federal circuit
 - Supreme Court
+
+## Diaability claim Key Terms
+- **Direct Service Connection**  Disability resulting from personal injury or disease contracted in line of duty - compensations maybe payed if not dishonorably discharged from service
