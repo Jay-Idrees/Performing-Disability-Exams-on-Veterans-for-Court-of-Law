@@ -91,3 +91,17 @@ Most of these exams will have designated worksheets or questionares to be filled
 **Physical Exam**
 - Vital signs including height weight and state of nutrition
 - Dominant hand
+- Posture and possible reason for abnormal gait
+- Standard physical exam consisting of head ENT, Neck, CVS, Resp, abdomen, skin/peripheral, GU, Neurological
+- Musculoskeletal: measure range of motion using goniometer, pain on motion, 3 repetitions, rest pain, signs of disk disease
+
+**Results of diagnostic and clinical tests**
+- X rays, EKG and Echo maybe ordered. Joint X-rays maybe ordered. Especially if there is concern for degenerative or traumatic arthritis.
+
+**Summary**
+- All disabilities diagnosed
+- Impact of these diagnosis on daily activities and occupation
+- **Capacity to manage financial affairs** in his/her own best interest- Does the veteran pay bills himself?
+- Assessment whether you think the veteran can take care of his/her finances
+- Is social worker service needed?
+
