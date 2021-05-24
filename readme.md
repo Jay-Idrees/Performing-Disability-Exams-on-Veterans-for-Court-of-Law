@@ -46,4 +46,10 @@ Priority - original if its the first exam or origin am service connection claim 
 - **Review Examination** VA is required to periodically re-evaluate to dermine whether existing disability rating is still appropriate - detailed history should be obtained
 - **Prisoner of War Examination** Approach with greatest sensitivity as these veterans have experienced a great deal of physical and physcological trauma. Examples can inlude beatings, torture, forced marches, forced labor, diet, disease, brainwashing, extremes of hot and cold, psychological abuse and anxiety
 - **Terminal Examination** Exam performed on a veteran in a terminal stage
-- **Inadequate Examination** When prior exam is insufficient for adjudication purpo
+- **Inadequate Examination** When prior exam is insufficient for adjudication purposes
+
+## Chain of appeals
+- Appeal the Veteran Benifits Administration
+- Board of Veteran Appeals
+- US court of appeals for Veterans Claims
+- US court of appeals for federal circuit
