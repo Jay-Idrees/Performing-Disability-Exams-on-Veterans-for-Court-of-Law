@@ -7,3 +7,17 @@
 
 - The RSVSR uses record from a physician and then combines with additional information from the recordsand then adjudicates a benifits claim with the schedule of rating disabilities
 -  Part 4 of Title 38 of the Code of Federal Regulations, (38 CFR Part 4)
+
+
+- **Compensation** - Monetary benifits paid to the veterans to compensate average loss of earning potential from service related conditions.
+
+- **Pension** - Monetary benifits for war time veterans who are permanently and totaly disabled from **non-service** connected conditions or a combination of service connected and non-service connected conditions which are not a result of their own willful conduct. 
+
+
+## The process
+
+- The veteran files a claim with evidence
+- The veterans benifits administration conducts an initial review of evidence if the the data is insufficient then a request for examination is sent to a Veterans Health Administration facility or to contract examintion company
+- A certified C&P disability examiner then conducts assessments and completes Disability Benifit Questionares per protocol
+- A Veterans Benifits Administration's Rating Veterans Service Representative or Decision Review officer including all evidence on the record including any past compensations, this is based on  [38 code Federal regulations Part 4](https://www.law.cornell.edu/cfr/text/38/part-4)
+- 
