@@ -111,3 +111,12 @@ Most of these exams will have designated worksheets or questionares to be filled
 - Description of pain related symptoms, use of assistive devices, medications used to relieve pain and their side effects
 - Urinary urgency, bowel incontinance, erectile dysfunction
 - Functional status- daily activities, occupation, driving
+`Physical exam`
+- Anklosis present
+- For cervical and thoracolumbar spine: forward flexion, lateral flexion, extension - are these reproducible, any surgery?
+- Pain spasm or weaknesses
+- Gait, incoordination
+- musculature abnormality, posture
+- muscular atrophy
+- Ankle clonous
+- rectal tone
