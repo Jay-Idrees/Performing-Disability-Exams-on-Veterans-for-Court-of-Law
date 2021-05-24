@@ -39,3 +39,10 @@ Priority - original if its the first exam or origin am service connection claim 
 
 ![](images/exam-request.png)
 
+## Types of examinations
+
+- **Pension examination** Disease or injury that did not occur during active military service
+- **Increase Examination** The veteran claims that the condition has worsened compared the last rating exam, must document time since the last examination
+- **Review Examination** VA is required to periodically re-evaluate to dermine whether existing disability rating is still appropriate
+- 
+- **
