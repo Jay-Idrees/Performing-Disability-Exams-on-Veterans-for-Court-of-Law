@@ -71,7 +71,7 @@ Priority - original if its the first exam or origin am service connection claim 
 
 ## Exams
 
-- General Medical
+- General Medical - usually sifficient for pension claims, claims for individual unemployablity, 
 - Spine
 - Ischemic Heart Disease
 - Disability Benifits Questionare
