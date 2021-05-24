@@ -64,8 +64,8 @@ Priority - original if its the first exam or origin am service connection claim 
 
 - **Secondary Service Connection** New disability that is connected to a pre-existing service connected disorder
 
-- **Lay Evidence** Any evidence or statements by a person without specialized education
+- **Lay Evidence** Any evidence or statements by a person without specialized education. It can be used to describe the onset, serverity, frequency and length of time of any findings 
 
 - **Combat Service** Legal finding of fact pertaining to injuries sustained on a battle field. The veteran will provide proof it can be accepted if the lay evidence is consistent  with the circumstances , conditions and hardships of service. The main important question is whether the current claimed injury is relatd to the combt injury. The VA claims adjudicator will have determined whether a veteran served in a combat
 
-- 
+
