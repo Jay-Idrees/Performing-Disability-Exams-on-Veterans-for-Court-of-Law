@@ -21,3 +21,12 @@
 - A certified C&P disability examiner then conducts assessments and completes Disability Benifit Questionares per protocol
 - A Veterans Benifits Administration's Rating Veterans Service Representative or Decision Review officer including all evidence on the record including any past compensations, this is based on  [38 code Federal regulations Part 4](https://www.law.cornell.edu/cfr/text/38/part-4)
 - Then Veterans Benifits Administration notifies the service member in writing of the results
+
+
+## Request for examination
+
+- Before you perform any examination you will receive a request for examination form. The following information will be available:
+
+```
+The veteran's date of service
+Priority - original if its the first exam or origin am service connection claim for a condition
