@@ -36,3 +36,6 @@ Priority - original if its the first exam or origin am service connection claim 
 1. The veteran makes an original claim for service connection  within the designated time allowed after discharge from the service
 2. If the individual claims unemployability due to service-connected conditions
 3. If the veteran is claiming pension
+
+![](images/exam-request.png)
+
