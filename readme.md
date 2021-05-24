@@ -105,3 +105,9 @@ Most of these exams will have designated worksheets or questionares to be filled
 - Assessment whether you think the veteran can take care of his/her finances
 - Is social worker service needed?
 
+**Lumbar Spine Exam**
+`Pertinent history`
+- Dates of trauma if any
+- Description of pain related symptoms, use of assistive devices, medications used to relieve pain and their side effects
+- Urinary urgency, bowel incontinance, erectile dysfunction
+- Functional status- daily activities, occupation, driving
