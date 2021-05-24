@@ -85,3 +85,9 @@ Most of these exams will have designated worksheets or questionares to be filled
 - injury occurred during, before or after active service
 - Any treatment, followup or residuals for the injury
 - Document frequency, duration, precipitating and alleviating factors and the resulting impairment
+- Surgery and hospitalizations after the service with dates
+- Exact diagnosis and date of confirmed dignosis
+
+**Physical Exam**
+- Vital signs including height weight and state of nutrition
+- Dominant hand
