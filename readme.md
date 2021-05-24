@@ -79,3 +79,9 @@ Priority - original if its the first exam or origin am service connection claim 
 
 Most of these exams will have designated worksheets or questionares to be filled out. All negatives are to be documented, additional studies can be requested
 
+## Documentation
+
+**Medical history** points to specify
+- injury occurred during, before or after active service
+- Any treatment, followup or residuals for the injury
+- Document frequency, duration, precipitating and alleviating factors and the resulting impairment
