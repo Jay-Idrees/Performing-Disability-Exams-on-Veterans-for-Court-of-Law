@@ -69,3 +69,13 @@ Priority - original if its the first exam or origin am service connection claim 
 - **Combat Service** Legal finding of fact pertaining to injuries sustained on a battle field. The veteran will provide proof it can be accepted if the lay evidence is consistent  with the circumstances , conditions and hardships of service. The main important question is whether the current claimed injury is relatd to the combt injury. The VA claims adjudicator will have determined whether a veteran served in a combat
 
 
+## Exams
+
+- General Medical
+- Spine
+- Ischemic Heart Disease
+- Disability Benifits Questionare
+- Vision, hearing, mental disorder problems and unusually unique problems are usually done by specialists
+
+Most of these exams will have designated worksheets or questionares to be filled out. All negatives are to be documented, additional studies can be requested
+
