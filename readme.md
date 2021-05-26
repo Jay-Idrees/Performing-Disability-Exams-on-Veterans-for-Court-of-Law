@@ -172,3 +172,26 @@ The above criteria were added after the previous criteria were deemed inadequate
 - There is generally a low threshold to order Gulf War General Medical Exam, if the gulf war service is verified then CFR 3.317(a)(2)(B) or 3.317(b) are used to determine whether the claim fits the listed conditions
 
 **History for Gulf War Medical Examination**
+- Covers pre-service, during service, post-service
+- Avoid using the term gulf war illness infront of the veteran
+
+-Exposures: Large pit burns, particulate matter (Iraq & Afghanistan), Sulfur, hexavalant chromium
+- **Questions**: Participation in rescue operations, burning vehcle, IED vehicle containing Uranium, Took PB/pyridostigmine-Bromide tablets, exposure to infectious diseases, sand dlies
+- How is their experience related to their gulf war
+- Concern about exposures are very important, if concerned cn refer to VA environmental health exposure
+- Symptoms?
+
+1. Fatigue
+2. Signs or symptoms involving skin
+3. Headache
+4. Muscle pain
+5. Joint pain
+6. Neurologic signs and symptoms
+7. Neuropsychological signs or symptoms
+8. Signs or symptoms involving the respiratory system (upper or lower)
+9. Sleep disturbances
+10. Gastrointestinal signs or symptoms
+11. Cardiovascular signs or symptoms
+12. Abnormal weight loss
+13. Menstrual disorders
+
