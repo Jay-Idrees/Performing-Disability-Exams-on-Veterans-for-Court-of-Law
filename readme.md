@@ -165,3 +165,10 @@ Most of these exams will have designated worksheets or questionares to be filled
 4. Incoordination
 
 The above criteria were added after the previous criteria were deemed inadequate
+
+**Post Deployment Health Assessment PDHA form**
+- It is a voluntary self-reporting for used to report exposure events that occurred while outside US
+
+- There is generally a low threshold to order Gulf War General Medical Exam, if the gulf war service is verified then CFR 3.317(a)(2)(B) or 3.317(b) are used to determine whether the claim fits the listed conditions
+
+**History for Gulf War Medical Examination**
