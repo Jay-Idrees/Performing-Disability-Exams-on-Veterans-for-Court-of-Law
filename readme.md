@@ -144,4 +144,8 @@ Most of these exams will have designated worksheets or questionares to be filled
 - Systemic exertion intolerance disease (SEID)
 - DM and related disease are not considered chronic multi-system
 
-
+**Medical Statements and Opinions should specify**
+- An undiagnosed illness
+- Unexplained chronic multisystem illness of unknown etiology
+- Chronic multisystem with partially explained etiology
+- If there is clear specific etiology and diagnosis
