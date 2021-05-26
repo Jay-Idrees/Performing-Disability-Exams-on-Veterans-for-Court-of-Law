@@ -145,9 +145,11 @@ Most of these exams will have designated worksheets or questionares to be filled
 - DM and related disease are not considered chronic multi-system
 
 **Medical Statements and Opinions should specify**
-- An undiagnosed illness
-- Unexplained chronic multisystem illness of unknown etiology
-- Chronic multisystem with partially explained etiology
-- If there is clear specific etiology and diagnosis
+- An undiagnosed illness - Category 1
+- Unexplained chronic multisystem illness of unknown etiology - Category 2
+- Chronic multisystem with partially explained etiology - Category 3
+- If there is clear specific etiology and diagnosis - Category 4
 
-- The last 2 require medical nexus opinions with supporting evidence
+- The last 2 require medical nexus opinions with supporting evidence, along with an assessment whether they are related to the exposure event
+
+- Cancer, psychiatric and cardiovascular disorders do not fall under the presumptive service connection bsed on Gulf Service
