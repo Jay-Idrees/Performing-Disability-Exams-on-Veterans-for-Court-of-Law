@@ -134,3 +134,4 @@ Most of these exams will have designated worksheets or questionares to be filled
 
 - **Presemptuve Infectious Diseases** Presumed to be connected with Gulf Veterans
 - Brucellosis, Compylobacter Jejuni, Coxiella Burnetii (Q fever), Malaria, TB, salmonell-non-typoid, Shigella, Leishania, West Neil virus
+- For these infectious diseases listed above, Veterans who went to Afghanistan are eligible for this classifcation
