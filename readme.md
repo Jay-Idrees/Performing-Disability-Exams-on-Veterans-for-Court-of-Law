@@ -129,4 +129,6 @@ Most of these exams will have designated worksheets or questionares to be filled
 [38 CFR 3.317](https://www.govinfo.gov/content/pkg/CFR-2010-title38-vol1/xml/CFR-2010-title38-vol1-sec3-317.xml) is a useful legal reference to regulations regarding undiagnosed medical conditions
 - **Southwest Asia Theater Operations**
 - Includes Southwest Asia: Iraq, Saudi Arabia, Bahrain, UAE, Gulf of Aden, Waters of Persian Gulf, Arabian Sea and Red Sea, Kuwait, Qatar, Oman, Gulf of Oman, neutral zone b/w Iraq and Saudi Arabia
-- This does not include Afghanistan
+- This does not include Afghanistan or Djibouti, but a relevant exam can be performed if there is an associated environmental hazard
+- Claims are usually filed within a year, if later then exams can be ordered if 1) There is evidence of current diagnosed disability, 2) Evidence that the veteran was exposed to in service exposure (including lay evidence), 3) Symptoms maybe associated with the in service exposure event
+- 
