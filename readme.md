@@ -112,11 +112,11 @@ Most of these exams will have designated worksheets or questionares to be filled
 - Urinary urgency, bowel incontinance, erectile dysfunction
 - Functional status- daily activities, occupation, driving
 `Physical exam`
-- Anklosis present
+- Ankylosis present
 - For cervical and thoracolumbar spine: forward flexion, lateral flexion, extension - are these reproducible, any surgery?
 - Pain spasm or weaknesses
 - Gait, incoordination
-- musculature abnormality, posture
-- muscular atrophy
+- Musculature abnormality, posture
+- Muscular atrophy
 - Ankle clonous
-- rectal tone
+- Rectal tone
