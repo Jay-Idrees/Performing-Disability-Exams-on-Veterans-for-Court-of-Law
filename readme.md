@@ -196,4 +196,9 @@ The above criteria were added after the previous criteria were deemed inadequate
 13. Menstrual disorders
 
 - If a patient self states "fibromyalgia" "chronic fatigue syndrome" ask was it diagnosed by a doctor, if GI symptoms, ask about colonoscopy, EGD
+- If GI symproms rule out IBD (Bloody stool, pus, fecal calprotectin), Lactose intolerance, celiac, gluten intolerance (weight loss, anemia, EGD?), parasitic, alcohol, laxative -order stool sample
+- Diagnosis of iritable bowel disease-  sx x3 days/month for last 3 months, improvement with defication, chnge in stool frequency and form, sx nset maybe 6 months ago
+- For C&P purposes, symptoms must persist for 6 months
+
+- Components of documentation: protocols completed, test results, diagnosis, address questions lists, list category for symptoms, give opinion
 
