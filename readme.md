@@ -190,8 +190,10 @@ The above criteria were added after the previous criteria were deemed inadequate
 7. Neuropsychological signs or symptoms
 8. Signs or symptoms involving the respiratory system (upper or lower)
 9. Sleep disturbances
-10. Gastrointestinal signs or symptoms
+10. Gastrointestinal signs or symptoms, >6 months?
 11. Cardiovascular signs or symptoms
 12. Abnormal weight loss
 13. Menstrual disorders
+
+- If a patient self states "fibromyalgia" "chronic fatigue syndrome" ask was it diagnosed by a doctor, if GI symptoms, ask about colonoscopy, EGD
 
