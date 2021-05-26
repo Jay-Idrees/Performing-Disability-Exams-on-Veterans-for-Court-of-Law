@@ -120,3 +120,8 @@ Most of these exams will have designated worksheets or questionares to be filled
 - Muscular atrophy
 - Ankle clonous
 - Rectal tone
+
+## Disability Medical Assessment Gulf War General Medical Examination
+
+- The general principals of performing a compensation and Pension exam are similar to above and are applicable here as well
+- **Pattern of Symptoms** : chronic headaches, cognitive difficulties, Widespread bodily pain, unexplained fatigue, chronic diarrhea, skin rashes, respirtory problems
