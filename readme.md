@@ -135,3 +135,13 @@ Most of these exams will have designated worksheets or questionares to be filled
 - **Presemptuve Infectious Diseases** Presumed to be connected with Gulf Veterans
 - Brucellosis, Compylobacter Jejuni, Coxiella Burnetii (Q fever), Malaria, TB, salmonell-non-typoid, Shigella, Leishania, West Neil virus
 - For these infectious diseases listed above, Veterans who went to Afghanistan are eligible for this classifcation
+
+- Chronic fatigue syndrome - pain not relieved by rest
+- Fibromyalgia
+- Functional GI disorders like irritable bowel, recurrent and unexplained
+- Maybe accompanied by abdominal pain, substernal pain, nausea, vomiting, altered bowel
+- Chronic multi-system illness with a partially explained etiology
+- Systemic exertion intolerance disease (SEID)
+- DM and related disease are not considered chronic multi-system
+
+
