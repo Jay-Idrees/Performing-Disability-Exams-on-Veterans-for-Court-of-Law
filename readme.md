@@ -153,3 +153,13 @@ Most of these exams will have designated worksheets or questionares to be filled
 - The last 2 require medical nexus opinions with supporting evidence, along with an assessment whether they are related to the exposure event
 
 - Cancer, psychiatric and cardiovascular disorders do not fall under the presumptive service connection bsed on Gulf Service
+
+**Joint Pain**
+- It is common in Gulf war- must eveluate:
+
+1. Pain on movement that limits function - functional loss on repetitive use, flare ups
+2. Weakness
+3. Excess fatigability
+4. Incoordination
+
+The above criteria were added after the previous criteria were deemed inadequate
