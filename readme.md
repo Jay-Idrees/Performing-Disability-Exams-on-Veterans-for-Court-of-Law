@@ -149,3 +149,5 @@ Most of these exams will have designated worksheets or questionares to be filled
 - Unexplained chronic multisystem illness of unknown etiology
 - Chronic multisystem with partially explained etiology
 - If there is clear specific etiology and diagnosis
+
+- The last 2 require medical nexus opinions with supporting evidence
