@@ -121,7 +121,10 @@ Most of these exams will have designated worksheets or questionares to be filled
 - Ankle clonous
 - Rectal tone
 
-## Disability Medical Assessment Gulf War General Medical Examination
+## Disability Medical Assessment Gulf War General Medical Examination - Service in Southwest Asia Theater operations
 
 - The general principals of performing a compensation and Pension exam are similar to above and are applicable here as well
 - **Pattern of Symptoms** : chronic headaches, cognitive difficulties, Widespread bodily pain, unexplained fatigue, chronic diarrhea, skin rashes, respirtory problems
+- Compensation & Pension Gulf War Medical Exam is a Legal and Forensic exam
+[38 CFR 3.317](https://www.govinfo.gov/content/pkg/CFR-2010-title38-vol1/xml/CFR-2010-title38-vol1-sec3-317.xml) is a useful legal reference to regulations regarding undiagnosed medical conditions
+- 
