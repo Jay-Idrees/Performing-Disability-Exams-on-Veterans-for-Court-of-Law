@@ -128,4 +128,5 @@ Most of these exams will have designated worksheets or questionares to be filled
 - Compensation & Pension Gulf War Medical Exam is a Legal and Forensic exam
 [38 CFR 3.317](https://www.govinfo.gov/content/pkg/CFR-2010-title38-vol1/xml/CFR-2010-title38-vol1-sec3-317.xml) is a useful legal reference to regulations regarding undiagnosed medical conditions
 - **Southwest Asia Theater Operations**
-- Included: Iraq, Saudi Arabia, Bahrain, UAE, Gulf of Aden, Waters of Persian Gulf, Arabian Sea and Red Sea, Kuwait, Qatar, Oman, Gulf of Oman, neutral zone b/w Iraq and Saudi Arabia
+- Includes Southwest Asia: Iraq, Saudi Arabia, Bahrain, UAE, Gulf of Aden, Waters of Persian Gulf, Arabian Sea and Red Sea, Kuwait, Qatar, Oman, Gulf of Oman, neutral zone b/w Iraq and Saudi Arabia
+- This does not include Afghanistan
