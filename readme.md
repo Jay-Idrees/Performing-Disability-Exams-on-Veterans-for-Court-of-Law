@@ -169,6 +169,11 @@ Most of these exams will have designated worksheets or questionares to be filled
 
 The above criteria were added after the previous criteria were deemed inadequate
 
+
+- **Pain**
+    - Document subjective pain reports in history and objective pain reports on physical exam (guarding, tenderness, swelling, redness, facial expressions)
+
+
 **Post Deployment Health Assessment PDHA form**
 - It is a voluntary self-reporting for used to report exposure events that occurred while outside US
 
@@ -233,9 +238,10 @@ The above criteria were added after the previous criteria were deemed inadequate
 
 - The VES report should be submitted within 2 business days, and you should respont to any correspondence with in two business days. 
 
+- If there is a psychiatric emergency, inform VES (Veterans Evaluation Services)
 
-- **Pain**
-    - Document subjective pain reports in history and objective pain reports on physical exam (guarding, tenderness, swelling, redness, facial expressions)
+- All the claimed conditions mut be included in the synopsis section of the report
+
 
 
 - Additional resources for veterans
