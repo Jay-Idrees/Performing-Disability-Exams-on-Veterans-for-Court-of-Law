@@ -9,9 +9,12 @@
 -  Part 4 of Title 38 of the Code of Federal Regulations, (38 CFR Part 4)
 
 
-- **Compensation** - Monetary benifits paid to the veterans to compensate average loss of earning potential from service related conditions.
+- **Compensation** - Monetary benifits paid to the veterans to compensate average loss of earning potential from service related conditions (conditions that occurred or were aggravated during service).
 
 - **Pension** - Monetary benifits for war time veterans who are permanently and totaly disabled from **non-service** connected conditions or a combination of service connected and non-service connected conditions which are not a result of their own willful conduct. 
+
+
+- A diagnosis must be rendered when there are findings on clinical exam. If you are unsure then you can contact the VES support staff for clarification via `1-800-994-2054` or email at [VESPhysiciansHelp@vesservices.com]( VESPhysiciansHelp@vesservices.com)
 
 
 ## The process
@@ -133,16 +136,16 @@ Most of these exams will have designated worksheets or questionares to be filled
 - Claims are usually filed within a year, if later then exams can be ordered if 1) There is evidence of current diagnosed disability, 2) Evidence that the veteran was exposed to in service exposure (including lay evidence), 3) Symptoms maybe associated with the in service exposure event
 
 - **Presemptuve Infectious Diseases** Presumed to be connected with Gulf Veterans
-- Brucellosis, Compylobacter Jejuni, Coxiella Burnetii (Q fever), Malaria, TB, salmonell-non-typoid, Shigella, Leishania, West Neil virus
-- For these infectious diseases listed above, Veterans who went to Afghanistan are eligible for this classifcation
+    - Brucellosis, Compylobacter Jejuni, Coxiella Burnetii (Q fever), Malaria, TB, salmonell-non-typoid, Shigella, Leishania, West Neil virus
+    - For these infectious diseases listed above, Veterans who went to Afghanistan are eligible for this classifcation
 
-- Chronic fatigue syndrome - pain not relieved by rest
-- Fibromyalgia
-- Functional GI disorders like irritable bowel, recurrent and unexplained
-- Maybe accompanied by abdominal pain, substernal pain, nausea, vomiting, altered bowel
-- Chronic multi-system illness with a partially explained etiology
-- Systemic exertion intolerance disease (SEID)
-- DM and related disease are not considered chronic multi-system
+    - Chronic fatigue syndrome - pain not relieved by rest
+    - Fibromyalgia
+    - Functional GI disorders like irritable bowel, recurrent and unexplained
+    - Maybe accompanied by abdominal pain, substernal pain, nausea, vomiting, altered bowel
+    - Chronic multi-system illness with a partially explained etiology
+    - Systemic exertion intolerance disease (SEID)
+    - DM and related disease are not considered chronic multi-system
 
 **Medical Statements and Opinions should specify**
 ```
@@ -201,4 +204,6 @@ The above criteria were added after the previous criteria were deemed inadequate
 - For C&P purposes, symptoms must persist for 6 months
 
 - Components of documentation: protocols completed, test results, diagnosis, address questions lists, list category for symptoms, give opinion
+
+- `Note that the diagnostic workup is important in this case`
 
