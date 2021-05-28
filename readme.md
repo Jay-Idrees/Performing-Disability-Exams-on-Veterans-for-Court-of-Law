@@ -223,6 +223,8 @@ The above criteria were added after the previous criteria were deemed inadequate
 
 - Some times a patient's medical records may not be available, deemed unnecessary. That is a VA decision, not of VES
 
+- VES will suggest the diagnostic tests that the VA generally expects for the condition to be evaluated, but you have the final authority to approve or not. You have to report the abnormal findings on tests and of exams to the veteran on the same day or during followup. The critically abnormal tests are directly communcated to the VES director
+
 
 - **Pain**
     - Document subjective pain reports in history and objective pain reports on physical exam (guarding, tenderness, swelling, redness, facial expressions)
