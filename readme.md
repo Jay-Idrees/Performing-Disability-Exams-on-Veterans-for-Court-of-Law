@@ -207,3 +207,4 @@ The above criteria were added after the previous criteria were deemed inadequate
 
 - `Note that the diagnostic workup is important in this case`
 
+- **Important Notes regarding filling questionares**
