@@ -225,6 +225,12 @@ The above criteria were added after the previous criteria were deemed inadequate
 
 - VES will suggest the diagnostic tests that the VA generally expects for the condition to be evaluated, but you have the final authority to approve or not. You have to report the abnormal findings on tests and of exams to the veteran on the same day or during followup. The critically abnormal tests are directly communcated to the VES director
 
+- When performing first examinations, a VES New Provider Liaison will reach out and preview upcoming examinations and associated DBQs, these are 'Exam prep sessions'
+
+- Once fully trained you will work with a group of Quaity Analysts. Quality Analysts review all the reports before they are sent out. They cannot question the diagnosis you have rendered. 
+
+- The VES report should be submitted within 2 business days, and you should respont to any correspondence with in two business days. 
+
 
 - **Pain**
     - Document subjective pain reports in history and objective pain reports on physical exam (guarding, tenderness, swelling, redness, facial expressions)
