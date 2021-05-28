@@ -207,4 +207,22 @@ The above criteria were added after the previous criteria were deemed inadequate
 
 - `Note that the diagnostic workup is important in this case`
 
-- **Important Notes regarding filling questionares**
+- # Important Notes regarding filling questionares 
+
+- All veterans claimed conditions must be fully assessed in the diagnosis section of the report
+
+- The diagnostic criteria for the C&P exams must be strictly followed
+
+- A diagnosis must be presented at the conclusion of the exam
+
+- If there is confusion, VES support staff can be reached out at `1-800-994-2054` or [VESPhysiciansHelp@vesservices.com](VESPhysiciansHelp@vesservices.com)
+
+- Improper documentation of diagnostic evidence must be avoided as it would lead to unnecessary delays and result in return reports
+
+- All DBQs and examination related documents are only accessible through `VES Secure Provider Portal`. 
+
+
+- **Pain**
+    - Document subjective pain reports in history and objective pain reports on physical exam (guarding, tenderness, swelling, redness, facial expressions)
+    - 
+
