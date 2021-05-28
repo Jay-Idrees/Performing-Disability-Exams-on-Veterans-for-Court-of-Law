@@ -229,10 +229,24 @@ The above criteria were added after the previous criteria were deemed inadequate
 
 - Once fully trained you will work with a group of Quaity Analysts. Quality Analysts review all the reports before they are sent out. They cannot question the diagnosis you have rendered. 
 
+- The Quality Analysts cannot make changes to the DBQs without the provider's approval
+
 - The VES report should be submitted within 2 business days, and you should respont to any correspondence with in two business days. 
 
 
 - **Pain**
     - Document subjective pain reports in history and objective pain reports on physical exam (guarding, tenderness, swelling, redness, facial expressions)
-    - 
 
+
+- Additional resources for veterans
+
+1.VA’s website: www.va.gov
+2.VA’s toll free benefits hotline: 1-800-827-1000. This number rings to the VA Regional Office closest to the Veteran’s home, and is staffed to answer most of a Veteran’s questions about the C&P claims process.
+3.Many states and counties provide assistance to Veterans – i.e., Texas Veterans Commission (TVC), Harris County Veterans Service Officer, etc.
+4.Private Veterans Service Organizations, such as VFW (“Veterans of Foreign War”), AL (“American Legion”), and DAV (“Disabled American Veterans”).
+5.“Ebenefits” link: www.ebenefits.va.gov where Veterans can check the status of their claims online.
+6.Inquiry Routing and Information System: https://iris.custhelp.com/ which has access to the Veterans’ crisis line, benefits status link, and “MyHealtheVet” where Veterans can speak to a doctor online.
+7.VA benefits line for female Veterans: 1-855-VA-WOMEN. This line is intended to receive and respond to questions from Veterans, their families and caregivers about the many VA services and resources available to women Veterans.
+8.The National Crisis Line: 1-800-273-TALK. This is a 24/7 free and confidential, nationwide network of crisis centers. VES equips all of our providers with this phone number so they can pass it on to Veterans they evaluate as appropriate.
+9.The website for the Veterans Crisis Line is https://www.Veteranscrisisline.net/ForVeterans.aspx. It offers confidential text (838255) and online support.
+VA’s homeless Veterans hotline number: 1-877-424-3838.
