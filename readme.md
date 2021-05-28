@@ -221,6 +221,8 @@ The above criteria were added after the previous criteria were deemed inadequate
 
 - All DBQs and examination related documents are only accessible through `VES Secure Provider Portal`. 
 
+- Some times a patient's medical records may not be available, deemed unnecessary. That is a VA decision, not of VES
+
 
 - **Pain**
     - Document subjective pain reports in history and objective pain reports on physical exam (guarding, tenderness, swelling, redness, facial expressions)
