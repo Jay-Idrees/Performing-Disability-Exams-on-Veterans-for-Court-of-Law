@@ -256,3 +256,5 @@ The above criteria were added after the previous criteria were deemed inadequate
 8.The National Crisis Line: 1-800-273-TALK. This is a 24/7 free and confidential, nationwide network of crisis centers. VES equips all of our providers with this phone number so they can pass it on to Veterans they evaluate as appropriate.
 9.The website for the Veterans Crisis Line is https://www.Veteranscrisisline.net/ForVeterans.aspx. It offers confidential text (838255) and online support.
 VA’s homeless Veterans hotline number: 1-877-424-3838.
+
+## Writing Medical Opinions
