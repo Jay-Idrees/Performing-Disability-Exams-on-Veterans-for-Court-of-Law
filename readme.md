@@ -299,3 +299,5 @@ Purpose of Medical opinions
 
     - When multiple clinician are involved in the care, the clinicians must coordinate before a final opinion is drafted
 
+    - An opinion can be requested as part of an examination request, or its part of a documentation protocol, or evidence of record requires an opinion
+
