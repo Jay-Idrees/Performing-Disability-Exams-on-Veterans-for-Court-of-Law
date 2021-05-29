@@ -258,3 +258,12 @@ The above criteria were added after the previous criteria were deemed inadequate
 VA’s homeless Veterans hotline number: 1-877-424-3838.
 
 ## Writing Medical Opinions
+
+Purpose of Medical opinions
+
+    - Is there a link of injury to service connection
+    - Determine relationships between medical conditions
+    - Determine etiology
+    - Reconcile diagnosis
+
+- Clear statement regarding probability, and a well-reasoned rationale should be stated in the medical opinion
