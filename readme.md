@@ -280,3 +280,6 @@ Purpose of Medical opinions
     - Medical records
     - Lay testimony
 
+- Language for opinion
+    - Is as likely as not - means that the odds are >50%
+    - Is less likely as not - meand that the odds are <50%
