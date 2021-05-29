@@ -266,4 +266,17 @@ Purpose of Medical opinions
     - Determine etiology
     - Reconcile diagnosis
 
-- Clear statement regarding probability, and a well-reasoned rationale should be stated in the medical opinion
+- Clear statement regarding probability, and a well-reasoned rationale should be stated in the medical opinion. It should state at leat as likely or not (>50%). The veteran is entitled to the benifit of the doubt when there is approximate balance of positive and negative evidence. 
+- When a medical record is incomplete- VA cannot rely on its own expertise to fill in the blanks- VA is obligated not only to obtain a VA exam, but also a medical opinion
+
+- **Case Study** Veteran claim neck injury while driving a truck
+- Questions:
+    - Does the condition still exist
+    - Was there a diagnosis for the condition anytime after filinig the claim
+    - Is there more than 50% chaance that the present condition is related to service
+
+- Sources of data for driving an opinion
+    - Previous C&P examinations
+    - Medical records
+    - Lay testimony
+
