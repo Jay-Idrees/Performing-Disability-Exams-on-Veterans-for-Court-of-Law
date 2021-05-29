@@ -299,5 +299,16 @@ Purpose of Medical opinions
 
     - When multiple clinician are involved in the care, the clinicians must coordinate before a final opinion is drafted
 
-    - An opinion can be requested as part of an examination request, or its part of a documentation protocol, or evidence of record requires an opinion
+    - An opinion can be requested as part of an examination request, or its part of a documentation protocol, or evidence of record requires an opinion (evidence maybe in C file)
+    - A veteran may claim a disorder direcetly, such as PTSD, it must be evaluated by symptoms not what the veteran claims
 
+- Sources of evidence for formulating an opinion
+
+1. Questions on the Examination Request
+2. Facts provided on the Examination Request
+3. Facts in the C-file
+4. Electronic medical records
+5. Lay evidence, such as a claimant’s statements
+6. BVA remand instructions if applicable
+7. Examination findings
+8. Peer-reviewed medical literature
