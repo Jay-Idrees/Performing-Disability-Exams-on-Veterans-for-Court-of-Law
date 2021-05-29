@@ -283,3 +283,12 @@ Purpose of Medical opinions
 - Language for opinion
     - Is as likely as not - means that the odds are >50%
     - Is less likely as not - meand that the odds are <50%
+    - Neutral language should be used
+    - state logic/rationale
+    - facts
+    - sources used. C-file or electronic version
+
+- **Types of Medical Opinions**
+    - Direct Service connection - assessment regarding the timing of injury in relation with the service
+    - Secondary Service Connection - Is another disability (non-service connected) a consequence of the primary disability. Includes aggravation more than natural disease progression
+    - 
