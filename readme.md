@@ -291,4 +291,6 @@ Purpose of Medical opinions
 - **Types of Medical Opinions**
     - Direct Service connection - assessment regarding the timing of injury in relation with the service
     - Secondary Service Connection - Is another disability (non-service connected) a consequence of the primary disability. Includes aggravation more than natural disease progression
-    - 
+    - The first opinion determines connection between service condition and non-service condition, if negative then 
+    - The second opinion will be conducted to determined whether the secondary condition was aggraved beyond natural progression by primary
+    - **Aggravation opinion about pre-existing condition** - Did the pre-existing condition become aggraved during the service beyond natural progression
