@@ -295,7 +295,7 @@ Purpose of Medical opinions
         - The second opinion will be conducted to determined whether the secondary condition was aggraved beyond natural progression by primary
     - **Aggravation opinion about pre-existing condition** - Did the pre-existing condition become permanently aggraved during the service beyond natural progression
     - **Reconcillation of conflicting opinions**
-    - All vision, heating, dental mental (PTSD, eating disorders) opionins will be done by specialists
+    - All vision, hearing, dental mental (PTSD, eating disorders) opionins will be done by specialists. Hearing concerns should be evaluated by a state liensed audiologist. Tinitis can be examined by the disability examiner, but only if there is already an audiogram done by an audiologist and the association between hairing loss and tinitis is ruled out
 
     - When multiple clinician are involved in the care, the clinicians must coordinate before a final opinion is drafted
 
@@ -312,3 +312,4 @@ Purpose of Medical opinions
 6. BVA remand instructions if applicable
 7. Examination findings
 8. Peer-reviewed medical literature
+
