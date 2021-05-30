@@ -326,8 +326,11 @@ Purpose of Medical opinions
 - Is it as likley as not (50% or greater chance)
 - The veteran's condition is at least as likely as not aggravated beyond natural progression
 - The condition clearly and unmistakably existed prior to service was aggaravated beyond its natural progression by an in-service event
-- 
+- Reasoned medical explaination connecting the conclusion and supporting data, include reference and quantify the co-relation
+- If the veteran has claimed one diagnosis and in reality it is actually something else. e-g Asbestosis vs COPD, then you first have to rule out asbestosis before you present opinion for COPD
 
-- Reasoned medical explaination connecting the conclusion and supporting data 
+- Use the word 'proximately' instead of "likely"
+
+- Congenital defects are not considered service related conditions, but these can be related if service made them worse than expected progression
 
 
