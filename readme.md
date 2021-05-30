@@ -331,6 +331,10 @@ Purpose of Medical opinions
 
 - Use the word 'proximately' instead of "likely"
 
-- Congenital defects are not considered service related conditions, but these can be related if service made them worse than expected progression
+- Congenital defects are not considered service related conditions, but these can be related if service made them worse than expected progression. The following should be clearly stated
+
+- Is the condition congenital
+- Is there an acquired condition superimposed upon a congenital defect
+- Did it first manifest durig service
 
 
