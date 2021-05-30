@@ -297,7 +297,7 @@ Purpose of Medical opinions
     - **Reconcillation of conflicting opinions**
     - All vision, hearing, dental mental (PTSD, eating disorders) opionins will be done by specialists. Hearing concerns should be evaluated by a state liensed audiologist. Tinitis can be examined by the disability examiner, but only if there is already an audiogram done by an audiologist and the association between hairing loss and tinitis is ruled out
 
-    - When multiple clinician are involved in the care, the clinicians must coordinate before a final opinion is drafted
+    - When multiple clinicians are involved in the care, the clinicians must coordinate before a final opinion is drafted
 
     - An opinion can be requested as part of an examination request, or its part of a documentation protocol, or evidence of record requires an opinion (evidence maybe in C file)
     - A veteran may claim a disorder direcetly, such as PTSD, it must be evaluated by symptoms not what the veteran claims
@@ -312,4 +312,22 @@ Purpose of Medical opinions
 6. BVA remand instructions if applicable
 7. Examination findings
 8. Peer-reviewed medical literature
+
+- The **lay evidence must be addressed**. Failure the address the lay evidence is one of the most common reasons for returned medical opinions. It must be clearly stated in the medical opinion whether or not you agree with the statements
+
+- Lay evidene can be considered sufficient for diagnosis in the circumstances below:
+
+1. A medical condition that a lay person is competent to identify such as vericose veins
+2. The layperson is reporting a diagnosis he was given in the past
+3. Layperson is describing symproms that are later diagnosed by a medical professional
+
+- **Language points for opinion**
+
+- Is it as likley as not (50% or greater chance)
+- The veteran's condition is at least as likely as not aggravated beyond natural progression
+- The condition clearly and unmistakably existed prior to service was aggaravated beyond its natural progression by an in-service event
+- 
+
+- Reasoned medical explaination connecting the conclusion and supporting data 
+
 
