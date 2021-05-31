@@ -338,3 +338,10 @@ Purpose of Medical opinions
 - Did it first manifest durig service
 
 
+# Writing aggravation opinions
+
+- With a noted condition - known pre-existing condition existed before service - One key source is the etrance service exam
+
+- Without a noted condition - no documentation on the entrance service exam
+
+- Secondary (Allen) - Non-service connected condition has agraved beyond natural progression secondary to a service connectd condition
