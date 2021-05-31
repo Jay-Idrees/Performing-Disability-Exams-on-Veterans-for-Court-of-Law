@@ -349,3 +349,5 @@ Purpose of Medical opinions
 - Entrance service exam may not be always available especially in the case of veterans engaged in a short term service
 
 - A simple statement by a veteran that a condition existed prior to enrolment is not sufficient for a disbility claim, but if the veteran states as such, you can suggest that the veteran forward medical records or proof to VBA for processing
+
+- **Presumption of soundness** The veteran was in an otherwise sound condition unless for the pre-existing conditions mentioned in the enrollment exam
