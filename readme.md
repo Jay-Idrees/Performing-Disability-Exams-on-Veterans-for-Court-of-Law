@@ -340,8 +340,12 @@ Purpose of Medical opinions
 
 # Writing aggravation opinions
 
-- With a noted condition - known pre-existing condition existed before service - One key source is the etrance service exam
+- **With a noted condition** - known pre-existing condition existed before service - One key source is the etrance service exam
 
-- Without a noted condition - no documentation on the entrance service exam
+- **Without a noted condition** - no documentation on the entrance service exam
 
-- Secondary (Allen) - Non-service connected condition has agraved beyond natural progression secondary to a service connectd condition
+- **Secondary (Allen)** - Non-service connected condition has agraved beyond natural progression secondary to a service connectd condition
+
+- Entrance service exam may not be always available especially in the case of veterans engaged in a short term service
+
+- A simple statement by a veteran that a condition existed prior to enrolment is not sufficient for a disbility claim, but if the veteran states as such, you can suggest that the veteran forward medical records or proof to VBA for processing
