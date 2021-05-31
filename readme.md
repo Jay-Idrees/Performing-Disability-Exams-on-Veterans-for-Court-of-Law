@@ -350,4 +350,4 @@ Purpose of Medical opinions
 
 - A simple statement by a veteran that a condition existed prior to enrolment is not sufficient for a disbility claim, but if the veteran states as such, you can suggest that the veteran forward medical records or proof to VBA for processing
 
-- **Presumption of soundness** The veteran was in an otherwise sound condition unless for the pre-existing conditions mentioned in the enrollment exam
+- **Presumption of soundness** The veteran was in an otherwise sound condition unless for the pre-existing conditions mentioned in the enrollment exam. It becomes an issue only when a condition manifests during service and was not listed at the enterance service exam
