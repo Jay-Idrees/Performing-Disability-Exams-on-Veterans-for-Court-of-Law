@@ -1,6 +1,6 @@
 # Performing Disability Exams on Veterans for Court of Law
 
-- The Disability exam is different from a Treatment exam in two ways
+- The Disability exam is different from a Treatment exam in two ways:
 
 1. The purpose of the exam is not to decide a treatment, but to evaluate for disability
 2. The audiance of the exam report is not medical professionals, but attorneys, judges, Rating Veterans Service Representatives or Decision Review Officers
