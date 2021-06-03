@@ -338,7 +338,7 @@ Purpose of Medical opinions
 - Did it first manifest durig service
 
 
-# Writing aggravation opinions
+# Writing Aggravation Opinions
 
 - **With a noted condition** - known pre-existing condition existed before service - One key source is the etrance service exam - If there are mentioned in the exam then they can be considered as "noted"
 
