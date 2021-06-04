@@ -342,7 +342,7 @@ Purpose of Medical opinions
 
 - **With a noted condition** - known pre-existing condition existed before service - One key source is the etrance service exam - If there are mentioned in the exam then they can be considered as "noted"
 
-- **Without a noted condition** - no documentation on the entrance service exam
+- **Without a noted condition** - no documentation of the entrance service exam
 
 - **Secondary (Allen)** - Non-service connected condition has agraved beyond natural progression secondary to a service connectd condition
 
