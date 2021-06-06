@@ -340,7 +340,7 @@ Purpose of Medical opinions
 
 # Writing Aggravation Opinions
 
-- **With a noted condition** - known pre-existing condition existed before service - One key source is the etrance service exam - If there are mentioned in the exam then they can be considered as "noted"
+- **With a noted condition** - Known pre-existing condition existed before service - One key source is the etrance service exam - If there are mentioned in the exam then they can be considered as "noted"
 
 - **Without a noted condition** - no documentation of the entrance service exam
 
